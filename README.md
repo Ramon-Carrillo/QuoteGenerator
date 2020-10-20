@@ -46,4 +46,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-One of the JavaScript 20 Projects Course.
+One of the projects from JavaScript 20 Projects Course.
