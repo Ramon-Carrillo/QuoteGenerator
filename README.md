@@ -4,6 +4,7 @@
 - Make an asynchronous fetch request to a REST API,
 - Made a proxy API with Heroku to avoid CORS problems,
 
+![screenshot](quote-generator.png)
 
 ## Built With
 
@@ -33,12 +34,6 @@ Only Ruby.
 - GitHub: [@githubhandle](https://github.com/Ramon-Carrillo)
 - Twitter: [@twitterhandle](https://twitter.com/ramon_de_NL)
 - LinkedIn: [linkedin](https://www.linkedin.com/in/ramon-carrillo-54525a1ab/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page]().
 
 ## Show your support
 
