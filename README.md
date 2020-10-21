@@ -1,6 +1,7 @@
 # Quote Generator
 
 #Learned How To:
+
 - Make an asynchronous fetch request to a REST API,
 - Made a proxy API with Heroku to avoid CORS problems,
 
@@ -11,17 +12,6 @@
 - HTML
 - CSS
 - JS
-
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
-- Clone this repository into your computer
-- To run, enter this command in your terminal `my_arrays.rb`
-
-### Prerequisites
-
-Only Ruby.
 
 ### Usage
 
